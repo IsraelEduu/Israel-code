@@ -1,0 +1,13 @@
+
+body{
+  border:1px solid black;
+  Background-color: papayawhip;
+  color: darkblue;
+  font-size: 22px;
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.5
+}
+h1,h2{
+  color: royalblue;
+
+}
